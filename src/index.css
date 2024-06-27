@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Heading Text */
+.heading-text {
+  color: #000000; /* Black color */
+  font-size: 32px;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  font-family: math;
+}
+
+
